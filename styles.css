@@ -145,6 +145,12 @@ figcaption{
 .border-button{
     border: 2px solid #e5e7eb;
 }
+
+footer{
+    padding: 30px;
+    color: #e5e7eb;
+    text-align: center;
+}
 /*TODO: 
 Add padding class
 +
